@@ -1,21 +1,20 @@
 # Bake Shop Cashier
-The Bake Shop Cashier is just a simple cashier of a simple baker.
-Using the Cashier: 
+The Bake Shop Cashier is an application that helps with handling cashier related operation of a small baker shop.
+The following are the instruction on how to use the program: 
 
-Step 1: Check the checkbox that you will avail of.
+Step 1: Click on the checkbox of the item that the customer would like to avail.
 
-Step 2: After checking one or more checkbox, the textbox of that corresponding checkbox will be enabled to be able to type the number of that specific bread.
+Step 2: After clicking on the desired items, the textbox of the selected checkbox will be enabled so you can type the number of items wanted by the customer of that selected bread.
 
-Step 3: After Step 2, choose a payment method from the dropbox. 
+Step 3: Choose a payment method from the dropbox. 
 
 Step 4: Review the FF:
 
-Payment Method - Cash: Type the money that you have.
+Payment Method - Cash: Type the amount of money received from customer and the program will show you how much for the change. 
 
-Payment Method - Master Card: Will view how much the price is. 
+Payment Method - Debit, Master or visa card: Will show how much the price is and ask you to swipe the card into the machine. 
 
-Payment Method - Debit Card: Will view how much the price is.
-
-Payment Method - Visa Card: Will view how much the price is.
-
-Step 5: Click total to review the transactions. Click Reset to start a new transaction. Click Exit to exit the cashier.
+Step 5: After Clicking total to review the transactions and printing the receipt.
+you have two options:
+Click Reset to start a new transaction. 
+Click Exit to exit the cashier.
